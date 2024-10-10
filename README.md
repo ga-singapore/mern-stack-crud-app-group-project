@@ -1,11 +1,23 @@
-# TODO
+# ![MEN Stack CRUD App Project](./assets/hero.png)
 
-## Internal resources
+## About
 
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+**_Instructors should see the Instructor Guide for more configuration details._**
 
-🏗️ [Release Notes](./internal-resources/release-notes.md)
+In this project, students will build an authenticated Node/Express/MongoDB application with full CRUD.
 
----
+## Prerequisites
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+This project requires an understanding of full-stack authenticated applications built using Express, Node, MongoDB, and EJS.
+
+## Content
+
+[Project Journey](./project-journey/README.md)
+
+[Project Requirements](./project-requirements/README.md)
+
+[Project Details](./project-details/README.md)
+
+[Project Deliverables](./project-deliverables/README.md)
+
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
