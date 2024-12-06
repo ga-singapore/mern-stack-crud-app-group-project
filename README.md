@@ -2,8 +2,6 @@
 
 ## About
 
-**_Instructors should see the Instructor Guide for more configuration details._**
-
 In this project, students will build an authenticated Node/Express/MongoDB application with full CRUD.
 
 ## Prerequisites
