@@ -1,5 +1,8 @@
-# ![MERN Stack CRUD App Group Project - Project Requirements](./assets/hero.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">MERN Stack CRUD App Group Project</span>
+  <span class="subhead">Project Requirements</span>
+</h1>
 ## Overview
 
 For this project, you'll work across the back-end and the front-end to build a full-stack project with a team.

@@ -1,5 +1,8 @@
-# ![Instructor Guide](../assets/instructor-guide.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Instructor Guide</span>
+  <span class="subhead"></span>
+</h1>
 ## What's included?
 
 This is the repo for an individual Browser-Based Game Project. It includes:

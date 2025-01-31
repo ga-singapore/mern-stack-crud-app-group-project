@@ -1,5 +1,8 @@
-# ![MEN Stack CRUD App Project](./assets/hero.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">MERN Stack CRUP App Group Project</span>
+  <span class="subhead">Project Journey</span>
+</h1>
 ## About
 
 In this project, students will build an authenticated Node/Express/MongoDB application with full CRUD.

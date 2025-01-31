@@ -1,5 +1,8 @@
-# ![MERN Stack CRUD App Group Project - Project Deliverables](./assets/hero.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">MERN Stack CRUD App Group Project</span>
+  <span class="subhead">Project Deliverables</span>
+</h1>
 ## Contents
 
 **Deliverable details**:
