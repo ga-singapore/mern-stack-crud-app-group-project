@@ -5,4 +5,4 @@
 </h1>
 ## Version 1.0 - Updates from legacy content
 
-This release modularizes the legacy SEB Unit 1 Project.
+This release modularises the legacy SEB Unit 1 Project.
