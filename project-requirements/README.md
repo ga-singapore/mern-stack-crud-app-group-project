@@ -19,11 +19,17 @@ On the front-end, your team will construct a React application that uses AJAX to
 
 <embed src="./assets/project-requirements.pdf" width="100%" height="700px" type="application/pdf">
 
-## Evaluation
+## Group evaluation
 
-Upon completion of your presentation, your instructional team will evaluate your project.
+Upon completion of your group's presentation, your instructional team will evaluate your group's project.
 
-- Your instructors will be using the above guidelines to determine whether or not the project passes all of the minimum requirements.
-- If your instructors determine that the project does not meet the minimum requirements, your group would have failed the unit and hence the course. Please reach out to your student success specialist if you have questions.
-- Within a week after your presentation, your instructors will provide you with feedback on your project.
-- If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
+- Your instructors will use the above guidelines to determine whether or not the project passes all of the minimum requirements.
+- If your instructors determine that the project does not meet the minimum requirements, you or your group may be provided the opportunity to address the deficiencies identified and re-submit the project. However, be aware that **there is only a single opportunity to re-submit a project during the course**. Please reach out to your student success specialist if you have questions.
+- Immediately after your group's presentation, your instructors may provide your group with feedback that will benefit your project and perhaps other student's projects. The feedback given at this time is not formal feedback and does not indicate whether you or your group passed or failed the project.
+- If there is a specific section of code that you or your group would like an instructor to provide additional feedback on, please ask!
+
+## Individual contributor evaluation
+
+In addition to the group evaluation, you will also be graded individually on this project. ***It is possible for your group as a whole to pass the project but for you not to pass individually - do not let this happen!***
+
+See the [individual contributor project requirements](../project-individual-contributor-requirements/README.md) for more details about the individual requirements.
