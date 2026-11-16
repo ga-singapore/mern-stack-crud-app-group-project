@@ -61,7 +61,7 @@ After your project proposal has been approved, you'll need to set up a GitHub re
 
 You may deploy your project so that others are able to use it on the internet!
 
-First [setup a Netlify account](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/getting-started-with-netlify/) then [deploy your React app](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) using Netlify.
+First [setup a Netlify account](https://ga-curriculum.github.io/universal-resources/deployment/getting-started-with-netlify/) then [deploy your React app](https://ga-curriculum.github.io/universal-resources/deployment/react-front-end-deployment/) using Netlify.
 
 ## Submitting your deliverables
 
